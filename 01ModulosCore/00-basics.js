@@ -26,3 +26,11 @@ console.log(2+5);
 
 console.log(global); //Similar a Window pero funciona en la Powershell
 
+setInterval(function(){
+    console.log('Hola NODEJS');
+}, 1000);
+
+
+//1er paso: entrar a la carpeta donde esta el archivo a elegir del mismo modo que entramos con git pero con la powershell
+//2do paso: para ejecutar el archivo en la powershell usamos node ./archivo.js
+//3er paso: Si hicimos un bucle infinito y la poweshell no para, podemos usar crtl + c y se detiene el archivo
