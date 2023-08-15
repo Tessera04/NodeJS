@@ -1,0 +1,27 @@
+{
+  "name": "primeros-pasos-npm",
+  "version": "1.0.0",
+  "description": "En este proyecto estoy aprendiendo a crear una libreria con NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tessera04/NodeJS.git"
+  },
+  "keywords": [
+    "first",
+    "program"
+  ],
+  "author": "Matias Gonzalez <https://github.com/Tessera04>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tessera04/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Tessera04/NodeJS#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "responsimple": "^1.0.1"
+  }
+}
