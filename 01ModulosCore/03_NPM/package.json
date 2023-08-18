@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Tessera04/NodeJS#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "responsimple": "^1.0.1"
+    "responsimple": "^1.0.1",
+    "serve": "^14.2.0"
   }
 }
